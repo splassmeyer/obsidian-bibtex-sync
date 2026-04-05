@@ -1,9 +1,9 @@
-# obsidian-bibtex-sync
+# BibTex Sync
 Obsidian plugin for automated import and creation of notes from BibTex references.
 
 # Installation
 
-To manually install this plugin, download the `bibtex-sync` directory and move it to the `.obsidian/plugin` directory within your vault. Community plugins must be enabled. Either refresh the installed plugins list or re-open your vault to see the BibTex Sync plugin appear. Click the toggle on switch to activate.
+To manually install this plugin, download the `bibtex-sync` directory and move it to the `.obsidian/plugin` directory within your vault. Community plugins must be enabled. Either refresh the installed plugins list or re-open your vault to see the BibTex Sync plugin appear. Click the toggle 'on' switch to activate.
 
 # Setup
 
